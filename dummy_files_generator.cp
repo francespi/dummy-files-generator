@@ -11,7 +11,6 @@ const string GREEN = "\033[32m";
 const string BLUE = "\033[34m";
 const string YELLOW = "\033[33m";
 
-
 // This function is responsible for files number input parsing
 int parse_num(string str){
     

@@ -1,1 +1,1 @@
-# dummy-files-generator
+# Dummy Files Generator

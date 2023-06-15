@@ -5,6 +5,6 @@ authors:
   given-names: "Francesco"
   orcid: "https://orcid.org/0009-0008-9977-5346"
 title: "Dummy Files Generator"
-version: 1.0.0
-date-released: 2023-06-14
+version: 0.1.0
+date-released: 2023-06-15
 url: "https://github.com/francespi/dummy-files-generator"
